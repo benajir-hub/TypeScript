@@ -102,10 +102,10 @@ Email- benajir.shuvo@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+I took help from these websites whenever I got stuck or to learn new things!
 
-* [Udemy](https://www.udemy.com/course/machinelearning/)
 * [Javatpoint](www.javatpoint.com/typescript-tutorial/)
+* [TypeScript](https://www.w3schools.com/typescript/index.php)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
