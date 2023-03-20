@@ -104,8 +104,9 @@ Email- benajir.shuvo@gmail.com
 
 I took help from these websites whenever I got stuck or to learn new things!
 
+* [TypeScript](https://www.typescriptlang.org/)
 * [Javatpoint](www.javatpoint.com/typescript-tutorial/)
-* [TypeScript](https://www.w3schools.com/typescript/index.php)
+* [W3Schools](https://www.w3schools.com/typescript/index.php)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
